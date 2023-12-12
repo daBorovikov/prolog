@@ -1,0 +1,103 @@
+clauses
+country(1, "Russia", asia, 146599183).
+country(2, "China", asia, 1403500365).
+country(3, "USA", north_america, 331002651).
+country(4, "India", asia, 1380004385).
+country(5, "Brazil", south_america, 212559417).
+country(6, "Indonesia", asia, 273523615).
+country(7, "Pakistan", asia, 220892340).
+country(8, "Nigeria", africa, 206139587).
+country(9, "Bangladesh", asia, 164689383).
+country(10, "Mexico", north_america, 128932753).
+country(11, "Japan", asia, 126476461).
+country(12, "Egypt", africa, 102334404).
+country(13, "France", europe, 65273511).
+country(14, "Turkey", asia, 84339067).
+country(15, "Germany", europe, 83783942).
+country(16, "Vietnam", asia, 97338579).
+country(17, "South Korea", asia, 51269185).
+country(18, "South Africa", africa, 59308690).
+country(19, "Italy", europe, 60461826).
+country(20, "Argentina", south_america, 45195777).
+country(21, "Sudan", africa, 43849260).
+country(22, "Kenya", africa, 53771296).
+country(23, "Canada", north_america, 37742154).
+country(24, "Kazakhstan", asia, 18776707).
+country(25, "Poland", europe, 37887768).
+country(26, "Uzbekistan", asia, 33580650).
+country(27, "Malaysia", asia, 32365999).
+country(28, "Uganda", africa, 45741007).
+country(29, "Austria", europe, 9006398).
+country(30, "Sweden", europe, 10099265).
+country(31, "Spain", europe, 46754778).
+country(32, "Greece", europe, 10423054).
+country(33, "Australia", australia, 25499884).
+country(34, "Belgium", europe, 11589616).
+country(35, "Colombia", south_america, 50882891).
+country(36, "Norway", europe, 5462152).
+country(37, "Morocco", africa, 36910560).
+country(38, "Ireland", europe, 4937786).
+country(39, "New Zealand", oceania, 4822233).
+country(40, "Chile", south_america, 19116201).
+country(41, "Sri Lanka", asia, 21413249).
+country(42, "Switzerland", europe, 8654622).
+country(43, "Denmark", europe, 5792202).
+country(44, "Iran", asia, 83992949).
+country(45, "Portugal", europe, 10196709).
+country(46, "Saudi Arabia", asia, 34813871).
+country(47, "Finland", europe, 5540720).
+country(48, "Algeria", africa, 43851044).
+country(49, "Ukraine", europe, 43733762).
+country(50, "South Ossetia", europe, 53532).
+
+capital(1, "Moscow", 12692466).
+capital(2, "Beijing", 21706911).
+capital(3, "Washington, D.C.", 705749).
+capital(4, "Delhi", 29399141).
+capital(5, "Brasília", 3015268).
+capital(6, "Jakarta", 10187595).
+capital(7, "Islamabad", 1095064).
+capital(8, "Lagos", 1492297).
+capital(9, "Dhaka", 8105445).
+capital(10, "Mexico City", 9209944).
+capital(11, "Tokyo", 13929286).
+capital(12, "Cairo", 9127645).
+capital(13, "Paris", 2140526).
+capital(14, "Ankara", 5639076).
+capital(15, "Berlin", 3644826).
+capital(16, "Hanoi", 7607832).
+capital(17, "Seoul", 9720846).
+capital(18, "Pretoria", 1215363).
+capital(19, "Rome", 2870493).
+capital(20, "Buenos Aires", 3075646).
+capital(21, "Khartoum", 2365134).
+capital(22, "Nairobi", 4397073).
+capital(23, "Ottawa", 934243).
+capital(24, "Nur-Sultan", 1224962).
+capital(25, "Warsaw", 1790658).
+capital(26, "Tashkent", 2332800).
+capital(27, "Kuala Lumpur", 1752947).
+capital(28, "Kampala", 1683200).
+capital(29, "Vienna", 1897491).
+capital(30, "Stockholm", 975551).
+capital(31, "Madrid", 3155360).
+capital(32, "Athens", 664046).
+capital(33, "Canberra", 426704).
+capital(34, "Brussels", 1211035).
+capital(35, "Bogotá", 7697592).
+capital(36, "Oslo", 697549).
+capital(37, "Rabat", 1262924).
+capital(38, "Dublin", 553165).
+capital(39, "Wellington", 412500).
+capital(40, "Santiago", 6144816).
+capital(41, "Colombo", 5500000).
+capital(42, "Zurich", 434008).
+capital(43, "Copenhagen", 794128).
+capital(44, "Tehran", 83992949).
+capital(45, "Lisbon", 547733).
+capital(46, "Riyadh", 6486101).
+capital(47, "Helsinki", 656229).
+capital(48, "Algiers", 2730210).
+capital(49, "Kyiv", 2884000).
+capital(50, "Tskhinvali", 19614).
+
